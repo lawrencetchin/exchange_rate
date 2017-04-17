@@ -1,0 +1,2 @@
+class CountryMapping < ApplicationRecord
+end

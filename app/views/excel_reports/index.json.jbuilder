@@ -1,0 +1,1 @@
+json.array! @excel_reports, partial: 'excel_reports/excel_report', as: :excel_report
